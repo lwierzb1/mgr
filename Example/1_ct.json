@@ -1,0 +1,1 @@
+{"stop": [], "bw": "../Assets/1_bw.bmp", "ref": "../Assets/1_color.bmp", "mode": "image", "processes": 8, "colorization_algorithm": "CT", "k_means": false, "edge_detection": true, "max_video_frames_per_section": 10, "linear_algorithm": "lgmres"}
